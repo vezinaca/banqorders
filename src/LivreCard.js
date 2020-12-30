@@ -54,7 +54,8 @@ export default function LivreCard({livre}){
     return(
         
         <div className="card" style={livre.received ? {backgroundColor : 'lightgreen'}: {backgroundColor : '#ffcccb'}}>
-            <img className="card--image" src={holeImg} alt="problem" />
+            {/*<img className="card--image" src={holeImg} alt="problem" /> */}
+            <img className="card--image" src={livre.image_name} alt="problem" />
             
             <h2 className="card--title">{livre.title}</h2>
             <p>Author: {livre.author}</p>
