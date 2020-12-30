@@ -7,12 +7,16 @@ import LivreCard from "./LivreCard"
 import livreData from "./livres.json"
 import otherImgPath from './images/commandes/image2.jpg'
 //import allImages from "./images/commandes/*.jpg"
+//import allImgPath from "./img/*.jpg"
+
 //import conanImgPath from './images/commandes/image1.jpg'
 //import conanImgPath from './img/image1.jpg'
 //import aphexTwinImgPath from './img/image2.jpg'
 
 
 function App() {
+
+  //console.log(allImages);
 
   const [livres, setLivres] = useState([]);
   //console.log(livreData)
