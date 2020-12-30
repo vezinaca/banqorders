@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/banqorders/static/css/main.81fc5264.chunk.css",
-    "main.js": "/banqorders/static/js/main.33a73564.chunk.js",
-    "main.js.map": "/banqorders/static/js/main.33a73564.chunk.js.map",
+    "main.js": "/banqorders/static/js/main.83029131.chunk.js",
+    "main.js.map": "/banqorders/static/js/main.83029131.chunk.js.map",
     "runtime-main.js": "/banqorders/static/js/runtime-main.2c775d4a.js",
     "runtime-main.js.map": "/banqorders/static/js/runtime-main.2c775d4a.js.map",
     "static/js/2.6b4376a4.chunk.js": "/banqorders/static/js/2.6b4376a4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2c775d4a.js",
     "static/js/2.6b4376a4.chunk.js",
     "static/css/main.81fc5264.chunk.css",
-    "static/js/main.33a73564.chunk.js"
+    "static/js/main.83029131.chunk.js"
   ]
 }
