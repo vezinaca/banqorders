@@ -2,6 +2,19 @@ import React from "react";
 import conanImgPath from './images/commandes/image1.jpg'
 //import allImages from './images/commandes/*.jpg'
 import holeImg from './images/commandes/image2.jpg';
+// import allImages from './images/commandes/*';
+// console.log('allImages', allImages);
+
+// from https://stackoverflow.com/a/53762705
+// and https://stackoverflow.com/a/53777657
+function importAll(r) {
+  let out = {};
+  r.keys().forEach(k => {
+    out[k] = r(k).default;
+  });
+  return out;
+}
+const images = importAll(require.context('./images/commandes/', false, /\.(png|jpe?g|svg)$/));
 
 export default function LivreCard({livre}){
 
@@ -54,7 +67,7 @@ export default function LivreCard({livre}){
     return(
         
         <div className="card" style={livre.received ? {backgroundColor : 'lightgreen'}: {backgroundColor : '#ffcccb'}}>
-            <img className="card--image" src={holeImg} alt="problem" /> 
+            <img className="card--image" src={images['./' + livre.image_name]} alt="" /> 
             {/*<img className="card--image" src={livre.image_name} alt="problem" />*/}
             
             <h2 className="card--title">{livre.title}</h2>
