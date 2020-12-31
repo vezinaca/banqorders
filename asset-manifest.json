@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/banqorders/static/css/main.81fc5264.chunk.css",
-    "main.js": "/banqorders/static/js/main.83029131.chunk.js",
-    "main.js.map": "/banqorders/static/js/main.83029131.chunk.js.map",
-    "runtime-main.js": "/banqorders/static/js/runtime-main.2c775d4a.js",
-    "runtime-main.js.map": "/banqorders/static/js/runtime-main.2c775d4a.js.map",
-    "static/js/2.6b4376a4.chunk.js": "/banqorders/static/js/2.6b4376a4.chunk.js",
-    "static/js/2.6b4376a4.chunk.js.map": "/banqorders/static/js/2.6b4376a4.chunk.js.map",
-    "static/js/3.45166f7c.chunk.js": "/banqorders/static/js/3.45166f7c.chunk.js",
-    "static/js/3.45166f7c.chunk.js.map": "/banqorders/static/js/3.45166f7c.chunk.js.map",
+    "main.js": "/banqorders/static/js/main.e8162fc2.chunk.js",
+    "main.js.map": "/banqorders/static/js/main.e8162fc2.chunk.js.map",
+    "runtime-main.js": "/banqorders/static/js/runtime-main.e4ea975b.js",
+    "runtime-main.js.map": "/banqorders/static/js/runtime-main.e4ea975b.js.map",
+    "static/js/2.2247064f.chunk.js": "/banqorders/static/js/2.2247064f.chunk.js",
+    "static/js/2.2247064f.chunk.js.map": "/banqorders/static/js/2.2247064f.chunk.js.map",
+    "static/js/3.3b93a966.chunk.js": "/banqorders/static/js/3.3b93a966.chunk.js",
+    "static/js/3.3b93a966.chunk.js.map": "/banqorders/static/js/3.3b93a966.chunk.js.map",
     "index.html": "/banqorders/index.html",
     "static/css/main.81fc5264.chunk.css.map": "/banqorders/static/css/main.81fc5264.chunk.css.map",
-    "static/js/2.6b4376a4.chunk.js.LICENSE.txt": "/banqorders/static/js/2.6b4376a4.chunk.js.LICENSE.txt"
+    "static/js/2.2247064f.chunk.js.LICENSE.txt": "/banqorders/static/js/2.2247064f.chunk.js.LICENSE.txt",
+    "static/media/He-man_And_The_Masters_Of_The_Universe_Minicomic_Collection.jpg": "/banqorders/static/media/He-man_And_The_Masters_Of_The_Universe_Minicomic_Collection.db84f8d1.jpg",
+    "static/media/blahBIG.jpg": "/banqorders/static/media/blahBIG.a11b5ae4.jpg",
+    "static/media/blahOLD.jpg": "/banqorders/static/media/blahOLD.a11b5ae4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c775d4a.js",
-    "static/js/2.6b4376a4.chunk.js",
+    "static/js/runtime-main.e4ea975b.js",
+    "static/js/2.2247064f.chunk.js",
     "static/css/main.81fc5264.chunk.css",
-    "static/js/main.83029131.chunk.js"
+    "static/js/main.e8162fc2.chunk.js"
   ]
 }
