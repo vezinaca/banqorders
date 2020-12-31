@@ -13,6 +13,9 @@ import otherImgPath from './images/commandes/image2.jpg'
 //import conanImgPath from './img/image1.jpg'
 //import aphexTwinImgPath from './img/image2.jpg'
 
+//<img src="/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0006298811&amp;isbn=9781623563776&amp;author=Crawford%2C+Anwen+auteur&amp;title=Live+through+this&amp;year=2015&amp;TypeOfDocument=Physical&amp;mat=BOOK&amp;ct=true&amp;size=512&amp;isPhysical=1" style="position: absolute; inset: 0px; margin: auto; max-width: 100%; max-height: 100%;"></img>
+
+
 
 function App() {
 
